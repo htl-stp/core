@@ -20,12 +20,11 @@
 body, html {
     height: 100vh;
     width: 100vw;
-}
-
-main {
+    background: var(--bg);
     display: flex;
     flex-direction: column;
     align-items: center;
+    color: var(--text);
 }
 
 button {
@@ -70,9 +69,15 @@ button {
     grid-column: span 2;
 }
 
+.flex-column {
+    display: flex;
+    flex-direction: column;
+}
+
 .gap-xl { gap: 2rem;}
 .gap-lg { gap: 1.5rem;}
 .gap-md { gap: 1rem;}
+.gap-none { gap: 0;}
 
 @media (max-width: 800px) {
     .grid-3 {
