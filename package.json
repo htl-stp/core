@@ -1,0 +1,18 @@
+{
+  "name": "@htl-stp/core",
+  "version": "1.0.0",
+  "description": "Core CSS for all of 'HLTSTP, but better!'",
+  "main": "style.css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/htl-stp/core.git"
+  },
+  "keywords": ["css","core","htlstp-but-better"],
+  "author": "daftvoid",
+  "license": "MIT",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/htl-stp/core/issues"
+  },
+  "homepage": "https://github.com/htl-stp/core#readme"
+}
