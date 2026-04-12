@@ -2,7 +2,7 @@
 
 .grid {
     display: grid;
-    gap: 2rem;
+    gap: var(--space-lg);
 }
 
 .grid-3 {

@@ -6,10 +6,10 @@
 }
 
 .section {
-    padding: 4rem 0;
+    padding: var(--space-xl) 0;
     width: 100%;
 }
 
 .section-sm {
-    padding: 2rem 0;
+    padding: var(--space-lg) 0;
 }
