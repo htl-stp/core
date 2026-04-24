@@ -1,6 +1,6 @@
 {
   "name": "@htl-stp/core",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "Core CSS for all of 'HLTSTP, but better!'",
   "main": "core.css",
   "repository": {
